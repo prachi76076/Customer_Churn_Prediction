@@ -1,0 +1,101 @@
+﻿Customer_Id,Gender,Age ,Tenture,Subscription_Plan,Monthly_Spending,Num_Logins,Last_Login,Support_Tickets,Payment_Method,Churn
+100,Male,25,2,Basic ,10,5,15-01-2024,1,Credit Card,0
+101,Female,45,5,Premium,20,7,16-01-2024,2,Debit Card,0
+102,Female,78,4,Premium,30,9,17-01-2024,1,Cash,1
+103,Male,15,1,Basic ,40,7,18-01-2024,2,Paytm,0
+104,Male,12,2,Basic ,50,9,19-01-2024,1,Credit Card,1
+105,Female,14,1,Premium,10,4,20-01-2024,1,Debit Card,0
+106,Female,54,5,Premium,20,6,21-01-2024,1,Cash,1
+107,Male,56,2,Basic ,30,4,22-01-2024,0,Paytm,1
+108,Male,75,1,Basic ,40,5,23-01-2024,1,Credit Card,0
+109,Female,84,4,Premium,50,1,24-01-2024,1,Debit Card,1
+110,Female,75,2,Premium,10,1,25-01-2024,1,Cash,0
+111,Male,84,5,Basic ,20,4,26-01-2024,0,Paytm,1
+112,Male,54,2,Basic ,40,5,27-01-2024,2,Credit Card,1
+113,Female,52,4,Premium,50,2,28-01-2024,0,Debit Card,0
+114,Female,42,5,Premium,30,1,29-01-2024,1,Cash,1
+115,Male,15,6,Basic ,10,5,30-01-2024,0,Paytm,1
+116,Male,12,8,Basic ,50,5,31-01-2024,1,Credit Card,0
+117,Female,42,7,Premium,40,3,01-02-2024,0,Debit Card,1
+118,Female,62,9,Premium,20,6,02-02-2024,2,Cash,1
+119,Male,25,6,Basic ,10,1,03-02-2024,0,Paytm,1
+120,Male,22,3,Basic ,20,4,04-02-2024,2,Credit Card,1
+121,Female,26,4,Premium,30,1,05-02-2024,3,Debit Card,0
+122,Female,23,5,Premium,40,2,06-02-2024,0,Cash,1
+123,Male,25,12,Basic ,50,4,07-02-2024,1,Paytm,0
+124,Male,24,1,Basic ,10,5,08-02-2024,2,Credit Card,0
+125,Female,25,5,Premium,20,5,09-02-2024,3,Debit Card,0
+126,Female,85,4,Premium,40,5,10-02-2024,3,Cash,0
+127,Male,74,2,Basic ,30,4,11-02-2024,3,Paytm,1
+128,Male,78,4,Basic ,50,1,12-02-2024,3,Credit Card,0
+129,Female,89,1,Premium,40,2,13-02-2024,1,Debit Card,1
+130,Female,45,8,Premium,10,3,14-02-2024,2,Cash,1
+131,Male,45,9,Basic ,20,8,15-02-2024,2,Paytm,0
+132,Male,65,6,Basic ,50,5,16-02-2024,2,Credit Card,1
+133,Female,54,4,Premium,30,6,17-02-2024,0,Debit Card,0
+134,Female,54,5,Premium,50,3,18-02-2024,1,Cash,1
+135,Male,75,6,Basic ,40,2,19-02-2024,2,Paytm,1
+136,Male,75,4,Basic ,20,4,20-02-2024,0,Credit Card,0
+137,Female,74,5,Premium,10,7,21-02-2024,3,Debit Card,0
+138,Female,71,8,Premium,30,7,22-02-2024,1,Cash,0
+139,Male,71,4,Basic ,50,8,23-02-2024,0,Paytm,1
+140,Male,15,6,Basic ,40,8,24-02-2024,2,Credit Card,1
+141,Female,12,2,Premium,20,5,25-02-2024,3,Debit Card,1
+142,Female,45,7,Premium,20,4,26-02-2024,1,Cash,1
+143,Male,45,6,Basic ,10,1,27-02-2024,2,Paytm,1
+144,Male,54,5,Basic ,10,2,28-02-2024,0,Credit Card,0
+145,Female,65,3,Premium,20,1,29-02-2024,1,Debit Card,1
+146,Female,56,4,Premium,40,2,01-03-2024,2,Cash,1
+147,Male,53,2,Basic ,50,1,02-03-2024,3,Paytm,0
+148,Male,51,4,Basic ,30,4,03-03-2024,2,Credit Card,0
+149,Female,52,1,Premium,50,1,04-03-2024,0,Debit Card,0
+150,Female,54,4,Premium,40,4,05-03-2024,1,Cash,0
+151,Male,59,1,Basic ,20,5,06-03-2024,2,Paytm,1
+152,Male,54,5,Basic ,10,4,07-03-2024,3,Credit Card,0
+153,Female,65,7,Premium,20,6,08-03-2024,0,Debit Card,1
+154,Female,45,8,Premium,20,9,09-03-2024,1,Cash,1
+155,Male,42,9,Basic ,50,8,10-03-2024,2,Paytm,0
+156,Male,24,8,Basic ,30,5,11-03-2024,3,Credit Card,0
+157,Female,25,7,Premium,40,5,12-03-2024,2,Debit Card,1
+158,Female,26,4,Premium,20,5,13-03-2024,1,Cash,1
+159,Male,21,7,Basic ,10,7,14-03-2024,2,Paytm,1
+160,Male,23,4,Basic ,30,7,15-03-2024,0,Credit Card,0
+161,Female,27,5,Premium,10,5,16-03-2024,1,Debit Card,0
+162,Female,28,4,Premium,20,5,17-03-2024,1,Cash,1
+163,Male,29,5,Basic ,50,4,18-03-2024,3,Paytm,1
+164,Male,21,4,Basic ,30,7,19-03-2024,1,Credit Card,1
+165,Female,42,6,Premium,10,9,20-03-2024,0,Debit Card,1
+166,Female,45,9,Premium,50,6,21-03-2024,2,Cash,0
+167,Male,46,8,Basic ,20,3,22-03-2024,2,Paytm,1
+168,Male,41,7,Basic ,40,5,23-03-2024,2,Credit Card,1
+169,Female,43,5,Premium,50,8,24-03-2024,2,Debit Card,1
+170,Female,47,11,Premium,20,9,25-03-2024,2,Cash,0
+171,Male,48,2,Basic ,10,8,26-03-2024,1,Paytm,1
+172,Male,45,5,Basic ,30,7,27-03-2024,3,Credit Card,1
+173,Female,54,6,Premium,10,8,28-03-2024,1,Debit Card,0
+174,Female,65,3,Premium,20,7,29-03-2024,3,Cash,1
+175,Male,69,4,Basic ,20,7,30-03-2024,2,Paytm,1
+176,Male,68,12,Basic ,50,7,31-03-2024,1,Credit Card,1
+177,Female,67,10,Premium,40,8,01-04-2024,3,Debit Card,0
+178,Female,62,1,Premium,20,7,02-04-2024,1,Cash,0
+179,Male,63,5,Basic ,50,5,03-04-2024,3,Paytm,1
+180,Male,64,4,Basic ,10,4,04-04-2024,1,Credit Card,1
+181,Female,64,8,Premium,30,3,05-04-2024,3,Debit Card,0
+182,Female,54,9,Premium,10,6,06-04-2024,1,Cash,0
+183,Male,54,1,Basic ,20,5,07-04-2024,3,Paytm,0
+184,Male,64,10,Basic ,40,6,08-04-2024,1,Credit Card,1
+185,Female,54,5,Premium,50,3,09-04-2024,3,Debit Card,1
+186,Female,45,6,Premium,20,7,10-04-2024,1,Cash,0
+187,Male,42,5,Basic ,30,8,11-04-2024,3,Paytm,1
+188,Male,15,12,Basic ,10,9,12-04-2024,1,Credit Card,1
+189,Female,23,4,Premium,20,8,13-04-2024,3,Debit Card,1
+190,Female,62,8,Premium,10,5,14-04-2024,1,Cash,0
+191,Male,22,7,Basic ,20,2,15-04-2024,3,Paytm,0
+192,Male,15,5,Basic ,10,2,16-04-2024,1,Credit Card,0
+193,Female,21,6,Premium,20,5,17-04-2024,3,Debit Card,0
+194,Female,12,3,Premium,30,6,18-04-2024,1,Cash,1
+195,Male,13,11,Basic ,40,7,19-04-2024,3,Paytm,0
+196,Male,31,4,Basic ,50,8,20-04-2024,0,Credit Card,0
+197,Female,31,8,Premium,20,9,21-04-2024,2,Debit Card,1
+198,Female,34,6,Premium,40,5,22-04-2024,2,Cash,1
+199,Male,36,7,Basic ,50,1,23-04-2024,0,Paytm,1
